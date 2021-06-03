@@ -1,6 +1,7 @@
 ### Hello there!
-## I'm Ali, a non-binary nerd and cat-loving software developer.
-#Here's some info about me!
+## I'm Ali, a non-binary nerd and cat-loving JavaScript developer.
+
+Here's some info about me!
 
 - Pronouns: they/them
 - Cats: Kell and Cyrill
