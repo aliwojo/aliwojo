@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there!
+## I'm Ali, a non-binary nerd and cat-loving software developer.
+#Here's some info about me!
+
+- Pronouns: they/them
+- Cats: Kell and Cyrill
+- Hobbies: gaming, dungeons and dragons, biking, sword fighting, cuddling my cats, reading about black holes
+- D&D characters: 
+    - Nerve: the tiefling ranger
+    - Kor: the human mutant blood hunter
 
 <!--
 **aliwojo/aliwojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
