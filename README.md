@@ -1,5 +1,5 @@
 ### Hello there!
-## I'm Ali, a non-binary nerd and cat-loving JavaScript developer.
+## I'm Ali, a non-binary nerd and cat-loving Software Developer.
 
 Here's some info about me!
 
