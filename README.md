@@ -7,8 +7,9 @@ Here's some info about me!
 - Cats: Kell and Cyrill
 - Hobbies: gaming, dungeons and dragons, biking, sword fighting, cuddling my cats, reading about black holes
 - D&D characters: 
-    - Nerve: the tiefling ranger
-    - Kor: the human mutant blood hunter
+    - Nerve: tiefling ranger
+    - Kor: human mutant blood hunter
+    - Vantok: half-orc bladesong wizard
 
 <!--
 **aliwojo/aliwojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
