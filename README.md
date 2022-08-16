@@ -7,10 +7,10 @@ Here's some info about me!
 - Cats: Kell and Cyri
 - Hobbies: gaming, dungeons and dragons, biking, sword fighting, cuddling my cats, reading about black holes
 - D&D characters: 
-    - Nerve: tiefling ranger
+    - Nerve: tiefling gloomstalker ranger
     - Kor: human mutant blood hunter
     - Vantok: half-orc bladesong wizard
-    - Bumber: Halfling monk
+    - Bumber: Halfling "Way of the Drunken Master" monk
 
 <!--
 **aliwojo/aliwojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
